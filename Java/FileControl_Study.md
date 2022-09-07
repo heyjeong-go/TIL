@@ -1,5 +1,6 @@
 # 파일 관련 test
-- [파일 생성 및 쓰기 구현해보기](https://velog.io/@heyjeong-go/Java-%EB%82%B4-%EB%A7%98%EB%8C%80%EB%A1%9C-%EA%B3%BC%EC%A0%9C-1%ED%83%84)
+- [파일 생성 및 쓰기 구현](https://velog.io/@heyjeong-go/Java-%EB%82%B4-%EB%A7%98%EB%8C%80%EB%A1%9C-%EA%B3%BC%EC%A0%9C-1%ED%83%84)
   + 2022-08-28 : 자바 프로젝트 생성 및 정리...
   + 2022-09-01 : 문서 주석 추가(JavaDoc), 코드 수정
     * 에러코드 정의, 하드코딩, 카멜 표기법으로 정리
+  + 2022-09-08 : 해당 기능을 TDD로 다시 구현해보기로 함.
