@@ -5,9 +5,8 @@
 - [TDD](https://github.com/heyjeong-go/TIL/blob/main/Java/TDD_Test.md)
 
 ## Spring Boot
-- [SpringBoot Project 생성 test](https://github.com/heyjeong-go/SpringBoot_Study.git)
-  + 기록(나중에 지워..) : 일단 생성해본것, Spring Boot 기본 개념 등 기록해두기
 - [SpringBoot 강의 정리](https://github.com/heyjeong-go/SpringBoot_Study2.git)
+- [SpringBoot TDD 스터디](https://github.com/heyjeong-go/SpringBoot_Study.git)
 
 ## SourceTree
 - [SourceTree 사용법 정리](https://github.com/heyjeong-go/TIL/blob/main/SourceTree/SourceTree.md)
