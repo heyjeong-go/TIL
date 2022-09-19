@@ -5,8 +5,10 @@
 - [TDD](https://github.com/heyjeong-go/TIL/blob/main/Java/TDD_Test.md)
 
 ## Spring Boot
-- [SpringBoot 강의 정리](https://github.com/heyjeong-go/SpringBoot_Study2.git)
-- [SpringBoot TDD 스터디](https://github.com/heyjeong-go/SpringBoot_Study.git)
+- SpringBoot 강의 정리
+  + [SpringBoot 강의 정리](https://github.com/heyjeong-go/SpringBoot_Study2.git)
+- SpringBoot TDD
+  + [SpringBoot TDD 스터디](https://github.com/heyjeong-go/SpringBoot_Study.git)
 - API
 - 어노테이션
   + [Spring Model(@ModelAttribute, @Requestparam)](https://velog.io/@heyjeong-go/Spring-Model-%EA%B0%9D%EC%B2%B4)
