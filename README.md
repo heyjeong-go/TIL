@@ -20,6 +20,8 @@
   + [MVC 개념 정리](https://velog.io/@heyjeong-go/SpringBoot-MVC)
   + [MVC Flow](https://velog.io/@heyjeong-go/SpringBoot-MVC-Flow)
   + [Controller, Service, DAO, DTO](https://velog.io/@heyjeong-go/Controller-Service-DAO-DTO)
+- Spring DI, IOC
+  + [DI, IOC](https://velog.io/@heyjeong-go/Spring-DI-IOC#%EA%B7%B8%EB%9E%98%EC%84%9C-ioc-%EB%9E%80)
 
 ## SourceTree
 - [SourceTree 사용법 정리](https://github.com/heyjeong-go/TIL/blob/main/SourceTree/SourceTree.md)
