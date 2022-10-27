@@ -12,6 +12,7 @@
 - [TDD](https://github.com/heyjeong-go/TIL/blob/main/Java/TDD_Test.md)
 - Java 강의 정리
   + [static 변수](https://velog.io/@heyjeong-go/Java%EC%97%90%EC%84%9C%EC%9D%98-static-%EC%A0%95%EC%9D%98)
+  + [Singleton 패턴](https://velog.io/@heyjeong-go/Java-Singleton-%ED%8C%A8%ED%84%B4)
 
 ## Spring Boot
 - SpringBoot 강의 정리
