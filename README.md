@@ -23,6 +23,8 @@
   + [인프런의 스프링 핵심 원리 - 기본편<섹션3>](https://velog.io/@heyjeong-go/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B0%95%EC%9D%983)
   + [인프런의 스프링 핵심 원리 - 기본편<섹션4>](https://velog.io/@heyjeong-go/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B0%95%EC%9D%98-4#beandefinition)
   + [인프런의 스프링 핵심 원리 - 기본편<섹션5>](https://velog.io/@heyjeong-go/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B0%95%EC%9D%98-5)
+  + [인프런의 스프링 핵심 원리 - 기본편<섹션6>](https://velog.io/@heyjeong-go/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B0%95%EC%9D%98-6)
+  + [인프런의 스프링 핵심 원리 - 기본편<섹션7>](https://velog.io/@heyjeong-go/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EA%B0%95%EC%9D%98-7)
 - SpringBoot TDD
   + [SpringBoot TDD 스터디](https://github.com/heyjeong-go/SpringBoot_TDD_Study.git)
 - API
