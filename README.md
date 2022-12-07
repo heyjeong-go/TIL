@@ -48,3 +48,7 @@
 - [SourceTree 사용법 정리](https://github.com/heyjeong-go/TIL/blob/main/SourceTree/SourceTree.md)
   + 조금씩 추가할 예정...
 - [SourceTree 사용하면서 마주친 버그? 정리](https://github.com/heyjeong-go/TIL/blob/main/SourceTree/SourceTree_ErrorCollection.md)
+
+## git
+- github로 commit 했는데 잔디가 안 생긴다면 터미널에서 < git config --global user.email "[email]" > 설정해주기.
+  + 이메일은 github 계정으로.
