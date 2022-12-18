@@ -52,3 +52,5 @@
 ## git
 - github로 commit 했는데 잔디가 안 생긴다면 터미널에서 < git config --global user.email "[email]" > 설정해주기!
   + 이메일은 github 계정으로.
+- "fatal: you are not currently on a branch" 라는 에러가 생기면서 commit이 안 됨..
+  + [참고](https://aroma-dev.tistory.com/4)
